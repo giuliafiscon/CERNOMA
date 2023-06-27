@@ -1,6 +1,6 @@
 - Open code/script/input/config.R file to set the input files and parameters.
-- Set your own wrking directory in code/main.R file
-- Launch the code/main.R file to run the code
+- Set your own working directory in code/main.R file
+- Launch the code/main.R file to run the pipeline
 
 Description of code/input folder: 
 - Homo_sapiens_circ.txt (downloaded from circFunBase 
